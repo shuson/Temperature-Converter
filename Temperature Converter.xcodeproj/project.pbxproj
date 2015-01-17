@@ -407,6 +407,7 @@
 				5144FBA319FA2341009B29BC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5144FBA419FA2341009B29BC /* Build configuration list for PBXNativeTarget "Temperature ConverterTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +416,7 @@
 				5144FBA619FA2341009B29BC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

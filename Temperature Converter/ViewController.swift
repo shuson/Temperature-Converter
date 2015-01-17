@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         var currentC = floor(temperatureSlider.value)
         var currentF = Double(currentC)*(9/5)+32
         var currentK = Double(currentC) + 273.15
-
+        
         celsiusLabel.text = String(format: "%.fC", currentC)
         fahrenheitLabel.text = String(format: "%.1fF", currentF)
         kelvinLabel.text = String(format: "%.2fK",currentK )
@@ -40,6 +40,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    override func viewWillAppear(animated: Bool) {
+        //
+    }
 }
 

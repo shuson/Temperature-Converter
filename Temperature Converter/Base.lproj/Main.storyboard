@@ -74,15 +74,11 @@
                             <constraint firstAttribute="trailing" secondItem="ihK-XV-KGb" secondAttribute="trailing" constant="18" id="5fP-0k-TkS"/>
                             <constraint firstItem="YJ2-6b-zr8" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="69x-5V-DUW"/>
                             <constraint firstItem="ihK-XV-KGb" firstAttribute="width" secondItem="awG-K2-SsX" secondAttribute="width" id="7ux-BA-aw6"/>
-                            <constraint firstItem="68W-fN-DdV" firstAttribute="top" secondItem="PFv-GL-yHb" secondAttribute="bottom" constant="16" id="8k2-qc-zi6"/>
                             <constraint firstItem="PFv-GL-yHb" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="16" id="A3Y-DY-yVX"/>
                             <constraint firstItem="ihK-XV-KGb" firstAttribute="width" secondItem="3Am-lG-dQr" secondAttribute="width" id="EGe-76-xgA"/>
                             <constraint firstItem="awG-K2-SsX" firstAttribute="top" secondItem="YJ2-6b-zr8" secondAttribute="bottom" constant="112.5" id="F8u-6E-hah"/>
                             <constraint firstItem="YJ2-6b-zr8" firstAttribute="top" secondItem="WBt-UL-3Tt" secondAttribute="bottom" constant="28" id="Ohg-LZ-BnN"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="68W-fN-DdV" secondAttribute="trailing" constant="16" id="P4i-zb-R8b"/>
                             <constraint firstItem="3Am-lG-dQr" firstAttribute="leading" secondItem="awG-K2-SsX" secondAttribute="trailing" constant="18" id="RFe-rJ-dGR"/>
-                            <constraint firstItem="68W-fN-DdV" firstAttribute="top" secondItem="PFv-GL-yHb" secondAttribute="bottom" constant="8" id="RVq-Qd-CGs"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="68W-fN-DdV" secondAttribute="trailing" constant="16" id="ZOf-aw-zR9"/>
                             <constraint firstItem="68W-fN-DdV" firstAttribute="top" secondItem="PFv-GL-yHb" secondAttribute="bottom" constant="18" id="e8O-xz-64k"/>
                             <constraint firstItem="awG-K2-SsX" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="18" id="eue-oR-Afu"/>
                             <constraint firstAttribute="trailing" secondItem="PFv-GL-yHb" secondAttribute="trailing" constant="16" id="jo2-aL-Age"/>
